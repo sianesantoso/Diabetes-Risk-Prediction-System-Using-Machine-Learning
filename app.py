@@ -30,14 +30,6 @@ st.markdown(
             font-size: 18px;
         }
 
-        .card {
-            padding: 20px;
-            border-radius: 15px;
-            background-color: white;
-            box-shadow: 0px 4px 12px rgba(0,0,0,0.08);
-            margin-bottom: 20px;
-        }
-
         .success-box {
             padding: 20px;
             border-radius: 12px;
