@@ -64,7 +64,7 @@ st.markdown(
 
 # Load model
 with open(
-    'Diabetes-Risk-Prediction-System-Using-Machine-Learning/best_model.pkl',
+    'best_model.pkl',
     'rb'
 ) as file:
     model = pickle.load(file)
