@@ -46,3 +46,33 @@ Diabetes-Risk-Prediction-System-Using-Machine-Learning/
     └── diabetes_prediction_dataset.csv
 ```
 
+## ▶️ How to Run
+
+### 1. Clone this repository
+
+```bash
+git clone https://github.com/yourusername/your-repository-name.git
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run Streamlit application
+
+```bash
+streamlit run app.py
+```
+
+
+## 🎯 Prediction Output
+
+The application provides:
+- Diabetes risk prediction
+- Prediction probability percentage
+
+## 📄 License
+
+This project is for educational and portfolio purposes.
