@@ -44,6 +44,8 @@ Diabetes-Risk-Prediction-System-Using-Machine-Learning/
 │
 └── dataset/
     └── diabetes_prediction_dataset.csv
+└── screenshots/
+    └── app.png
 ```
 
 ## ▶️ How to Run
