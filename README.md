@@ -76,7 +76,7 @@ The application provides:
 - Diabetes risk prediction
 - Prediction probability percentage
 
-## Web Preview 
+## 🔎 Web Preview 
 
 ## 📄 License
 
