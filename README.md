@@ -73,6 +73,8 @@ The application provides:
 - Diabetes risk prediction
 - Prediction probability percentage
 
+## Web Preview 
+
 ## 📄 License
 
 This project is for educational and portfolio purposes.
