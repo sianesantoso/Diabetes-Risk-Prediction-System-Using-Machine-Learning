@@ -34,12 +34,15 @@ The model uses the following features:
 
 
 ## 📂 Project Structure
-'''
+```
 Diabetes-Risk-Prediction-System-Using-Machine-Learning/
 │
-├── diabetes_prediction_dataset.csv
 ├── streamlit_code.py
 ├── best_model.pkl
 ├── README.md
 └── requirements.txt
-'''
+│
+└── dataset/
+    └── diabetes_prediction_dataset.csv
+```
+
