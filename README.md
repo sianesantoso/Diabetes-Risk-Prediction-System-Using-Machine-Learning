@@ -34,6 +34,7 @@ The model uses the following features:
 
 
 ## 📂 Project Structure
+'''
 Diabetes-Risk-Prediction-System-Using-Machine-Learning/
 │
 ├── diabetes_prediction_dataset.csv
@@ -41,3 +42,4 @@ Diabetes-Risk-Prediction-System-Using-Machine-Learning/
 ├── best_model.pkl
 ├── README.md
 └── requirements.txt
+'''
