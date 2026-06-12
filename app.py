@@ -266,11 +266,3 @@ if st.button("🔍 Predict Diabetes Risk", use_container_width=True):
             """,
             unsafe_allow_html=True
         )
-
-
-
-st.write("")
-
-st.caption(
-    "Siane - 2025"
-)
