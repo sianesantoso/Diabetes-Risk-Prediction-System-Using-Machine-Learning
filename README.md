@@ -38,6 +38,7 @@ The model uses the following features:
 Diabetes-Risk-Prediction-System-Using-Machine-Learning/
 │
 ├── streamlit_code.py
+├── Diabetes_Prediction_Code.py
 ├── best_model.pkl
 ├── README.md
 └── requirements.txt
