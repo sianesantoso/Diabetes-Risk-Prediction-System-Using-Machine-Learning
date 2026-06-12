@@ -51,7 +51,7 @@ Diabetes-Risk-Prediction-System-Using-Machine-Learning/
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/sianesantoso/Diabetes-Risk-Prediction-System-Using-Machine-Learning.git
 ```
 
 ### 2. Install dependencies
